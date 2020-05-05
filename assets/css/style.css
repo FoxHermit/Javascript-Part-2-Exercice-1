@@ -1,0 +1,17 @@
+img{
+  width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid white 1px;
+}
+
+body{
+  background-color: black;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  font-family: Reem Kufi;
+}
